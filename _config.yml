@@ -1,0 +1,8 @@
+title: eggy.github.io
+description: Eggy's Page
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
